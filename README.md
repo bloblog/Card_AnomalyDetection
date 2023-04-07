@@ -1,7 +1,5 @@
-
-<img scr="">
-
 ### <p align='center'> 💳 신용카드 사기 거래 탐지 AI 경진대회</p>
+<img src="https://github.com/bloblog/Card_AnomalyDetection/blob/main/img/card_main.png?raw=true">
 
 <p align='center'>신용카드 거래 데이터에서 이상치를 탐지하는 분석 모델 개발</p>
 
@@ -30,8 +28,9 @@
 2️. Feature Engineering
 
  (분포 기반) feature 선택* / 전체 feature / PCA* 비교  
-  *feature 선택 → 이상치와 정상 데이터가 육안으로 확연하게 구분 가능한 특성 선택
-  *PCA → 특성 개수에 따른 설명력을 살펴보고, 최종 25개로 선정
+  
+    *feature 선택 → 이상치와 정상 데이터가 육안으로 확연하게 구분 가능한 특성 선택  
+    *PCA → 특성 개수에 따른 설명력을 살펴보고, 최종 25개로 선정
 
 <br>
 
