@@ -1,7 +1,6 @@
-### <p align='center'> 💳 신용카드 사기 거래 탐지 AI 경진대회</p>
 <img src="https://github.com/bloblog/Card_AnomalyDetection/blob/main/img/card_main.png?raw=true">
 
-<p align='center'>신용카드 거래 데이터에서 이상치를 탐지하는 분석 모델 개발</p>
+### <p align='center'> 💳 신용카드 사기 거래 탐지 AI 경진대회 참여작</p>
 
 <br>
 
