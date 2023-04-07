@@ -1,4 +1,5 @@
-<img scr="https://file.notion.so/f/s/aa2ef2af-4e1a-426e-81f9-8104b71d0593/Untitled.png?id=3828d017-134e-489c-b1f5-171ebd6d30bd&table=block&spaceId=32b54871-9d93-4376-bc12-b11af2bce837&expirationTimestamp=1680966426097&signature=g_vUVXQBpWProRdw4U9rIL3JbKKZKVQRbgCjjrxMWKM&downloadName=Untitled.png">
+
+<img scr="">
 
 ### <p align='center'> 💳 신용카드 사기 거래 탐지 AI 경진대회</p>
 
